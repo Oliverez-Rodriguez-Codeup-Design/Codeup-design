@@ -46,6 +46,9 @@ body{
 .hidden{
     display: none;
 }
+.bg-grey{
+    background-color: #E6E6E6;
+}
 
 @media screen and (min-width: 640px){
     .images-medium{
